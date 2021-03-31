@@ -1,0 +1,32 @@
+{
+	"name": "ssms-mode-theme",
+	"displayName": "SSMS Mode",
+	"description": "Edited One Light Theme based on Atom to replicate SSMS for presentations and such",
+	"version": "0.0.1",
+	"publisher": "mhokanson",
+	"license": "MIT",
+	"galleryBanner": {
+		"color": "#E8E8E8",
+		"theme": "light"
+	},
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"SSMS",
+		"theme",
+		"light"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "SSMS Mode",
+				"uiTheme": "vs",
+				"path": "./themes/SSMSMode.json"
+			}
+		]
+	}
+}
