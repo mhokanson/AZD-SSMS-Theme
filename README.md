@@ -3,7 +3,7 @@ An SSMS-like theme for Azure Data Studio, useful when screen sharing with other 
 
 ### Installation Instructions
 Copy the files to:
-> C:\Users\<user>\.azuredatastudio\extensions
+> C:\Users\\\<user\>\\.azuredatastudio\\extensions
 
 Then open the command palette in Azure Data Studio and execution the following command:
 > Developer: Reload Window
