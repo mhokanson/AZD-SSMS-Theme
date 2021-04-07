@@ -9,3 +9,6 @@ Then open the command palette in Azure Data Studio and execution the following c
 > Developer: Reload Window
 
 Finally, change the theme of Azure Data Studio
+
+### Screenshot
+![Example](./images/Example.png)
