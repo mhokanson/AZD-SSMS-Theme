@@ -7,3 +7,5 @@ Copy the files to:
 
 Then open the command palette in Azure Data Studio and execution the following command:
 > Developer: Reload Window
+
+Finally, change the theme of Azure Data Studio
